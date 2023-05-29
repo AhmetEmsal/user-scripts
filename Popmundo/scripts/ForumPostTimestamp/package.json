@@ -1,0 +1,18 @@
+{
+    "name": "forumposttimestamp",
+    "version": "1.0.0",
+    "description": "",
+    "scripts": {
+        "compile": "tsc.cmd && uglifyjs ./dist/script.js --compress sequences=true,conditionals=true,booleans=true --mangle --output ./dist/script.min.js"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+    },
+    "devDependencies": {
+        "@types/jquery": "^3.5.14",
+        "@types/moment": "^2.13.0",
+        "uglify-js": "^3.17.4"
+    }
+}

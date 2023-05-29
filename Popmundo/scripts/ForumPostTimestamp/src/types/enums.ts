@@ -1,0 +1,4 @@
+enum TimeStampVisiblePreferences {
+    left,
+    onTimeText,
+}
