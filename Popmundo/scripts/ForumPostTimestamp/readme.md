@@ -1,5 +1,5 @@
 ### PURPOSE OF THE SCRIPT
-> This script enables displaying the creation and modification dates of the [popmundo](https://www.popmundo.com) game forum messages as text, based on the browser's language settings. This allows for a better understanding of when a forum message was posted.
+> This script shows the elapsed time of the creation and modification dates of the [Popmundo](https://www.popmundo.com) game forum messages in a readable text format, such as "2 hours ago," based on the browser's language settings.
 
 ___
 
